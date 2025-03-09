@@ -1,6 +1,6 @@
 Voici un fichier `README.md` mis à jour avec la structure de ton projet :  
 
-```md
+
 # 🐦 Twitter Clone – Réseau Social en PHP & MySQL  
 
 Ce projet est un clone simplifié de Twitter, permettant aux utilisateurs de publier des tweets, suivre d'autres utilisateurs et interagir avec le contenu. Il est développé en **PHP** avec une base de données **MySQL**, offrant une expérience fluide et dynamique.
@@ -89,16 +89,6 @@ wicoco-wicoco-twitter-clone-iim-php-mysql/
 
 ---
 
-## 🚀 Fonctionnalités à venir  
-- 📸 Ajout d’images aux tweets  
-- 🔔 Notifications en temps réel  
-- 📩 Système de messagerie privée  
-- 🌙 Mode sombre  
-
----
-
-## 📄 Licence  
-Ce projet est sous licence **MIT**.  
 
 🐦 **Développé avec ❤️ pour explorer le monde du développement web !**  
 ```
