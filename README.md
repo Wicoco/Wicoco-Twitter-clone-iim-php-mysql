@@ -1,6 +1,3 @@
-Voici un fichier `README.md` mis à jour avec la structure de ton projet :  
-
-
 # 🐦 Twitter Clone – Réseau Social en PHP & MySQL  
 
 Ce projet est un clone simplifié de Twitter, permettant aux utilisateurs de publier des tweets, suivre d'autres utilisateurs et interagir avec le contenu. Il est développé en **PHP** avec une base de données **MySQL**, offrant une expérience fluide et dynamique.
