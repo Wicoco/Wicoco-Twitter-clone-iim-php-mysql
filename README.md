@@ -88,9 +88,3 @@ wicoco-wicoco-twitter-clone-iim-php-mysql/
    - Accéder au projet via `http://localhost/wicoco-wicoco-twitter-clone-iim-php-mysql/public/index.php`  
 
 ---
-
-
-🐦 **Développé avec ❤️ pour explorer le monde du développement web !**  
-```
-
-Cette version inclut la structure du projet, l’installation et les fonctionnalités. Tu veux ajouter des infos sur les auteurs ou le déploiement en ligne ? 🚀
